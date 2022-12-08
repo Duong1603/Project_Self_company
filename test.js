@@ -9,7 +9,7 @@ const HelloWorldApp = () => {
         justifyContent: 'center',
         alignItems: 'center',
       }}>
-      <Text>Nguyen Thi Ngoc Linh Cute đáng yêu</Text>
+      <Text>Nguyen Thi Ngoc Linh </Text>
     </View>
   );
 };
